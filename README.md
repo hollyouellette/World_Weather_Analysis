@@ -19,6 +19,8 @@ This repository contains a three-part analysis:
    
      Next, the data from the WeatherPy_Database.csv was used to creat a new dataframe that showcases the nearest hotel to each city cased on it's longitude and latitude. Using the Google Maps API, we generated a map with pop-up makers to showcase the Hotel Name, City, County & Current Weather Description with Maximum Temperature for each location.
      
+     This analysis, in addition to the image below, can be found in the <a href="https://github.com/hollyouellette/World_Weather_Analysis/tree/main/Vacation_Search">Vacation_Search Folder</a> of this repository.
+     
      <img src="https://github.com/hollyouellette/World_Weather_Analysis/blob/main/Vacation_Search/WeatherPy_vacation_map.png">
      
    
