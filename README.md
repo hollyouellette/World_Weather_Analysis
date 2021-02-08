@@ -23,4 +23,14 @@ This repository contains a three-part analysis:
      
      <img src="https://github.com/hollyouellette/World_Weather_Analysis/blob/main/Vacation_Search/WeatherPy_vacation_map.png">
      
-   
+3. **Create a Travel Itinerary Map**
+
+     Finally, using the csv output from the previous step, we created a marker layer map of the vacation search results. From here, we selected the 4 cities that a customer might want to visit. Using gmaps documentations, we created a directions layer map to identify and highligh a driving route that connects all 4 trip stops. 
+
+ <img src "https://github.com/hollyouellette/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map.png">
+ 
+ As a final step, we added pop-up markers for each city to highlight the Hotel, City Name, Country and Weather of that destination. 
+ 
+ <img src "https://github.com/hollyouellette/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map_markers.png">
+ 
+ These images as well as their detailed code can be found the in the <a href="https://github.com/hollyouellette/World_Weather_Analysis/tree/main/Vacation_Itinerary">Vacation_Itinerary Folder</a> of this repository.
